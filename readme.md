@@ -1,5 +1,5 @@
-// TEAM XAB - DIGITAL MEDIA 104MC CREATIVE HACK LAB //
-    (LUCY VIZOR / SEBBIE MUDHAI / THEO KALEEV)
+<p>TEAM XAB - DIGITAL MEDIA 104MC CREATIVE HACK LAB <br>
+   (LUCY VIZOR / SEBBIE MUDHAI / THEO KALEEV) </p> <br>
 
  
  <h2>GROUP LINKS : </h2> 
@@ -10,7 +10,7 @@
  
  <h2>REFERENCES</h2>
  
- <i> PYTHON GAME </i>
+ <i> PYTHON GAME </i> <br>
  http://thepythongamebook.com/en:resources:people:jens_horst:part1step002 <br>
  https://www.youtube.com/watch?v=xnADSfE1E84 <br>
  https://www.youtube.com/watch?v=LKPPlrjjHh0 <br>
@@ -27,6 +27,11 @@
  https://gamedev.stackexchange.com/questions/131363/how-add-a-sprite-to-canvas-using-javascript <br>
  https://stackoverflow.com/questions/4915361/whats-the-difference-between-raw-input-and-input-in-python3-x <br>
 
-<i> PROCESSING ARTWORK </i>
+<i> PROCESSING ARTWORK </i> <br>
 https://cumoodle.coventry.ac.uk/pluginfile.php/1696570/mod_resource/content/1/Processing_Random_Circles.pde <br>
 http://pngimg.com/uploads/tree/tree_PNG3477.png <br>
+
+<i>ARDUINO CODE </i> <br>
+https://create.arduino.cc/projecthub/EvdS/led-dice-885cf1
+https://www.losant.com/blog/how-to-build-an-arduino-powered-led-dice
+http://www.instructables.com/id/Arduino-Led-Dice/
