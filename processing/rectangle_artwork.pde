@@ -1,18 +1,20 @@
-color[] palette = {#8B4513, #006400, #90EE90, #A0522D, #228B22};
+PImage img;
 
 void setup () {
- size (600,500);
+ size (1000,500);
  smooth();
  noFill();
  strokeWeight(3);
- frameRate(50);
- background(palette[0]);
+ frameRate(10);
+ background(51);
+ img = loadImage("tree.png");
+
 }
 
 void draw () {
  float x = random(width);
  float y = random(height);
  float d = random(80,300);
- stroke(palette[int(random(1,5))]);
- rect(x,y,d,d); 
+ image(img,x,y,d,d); 
+
 }
