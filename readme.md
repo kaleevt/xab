@@ -5,8 +5,12 @@
  <h2>GROUP LINKS : </h2> 
  
  <b> GITHUB </b>-> https://github.com/kaleevt/xab <br>
- <b>TRELLO </b> -> https://trello.com/b/uWhtuFOh/xab-project <br>
+ <b> TRELLO </b> -> https://trello.com/b/uWhtuFOh/xab-project <br>
  <b> SLACK  </b>-> https://teamtheebiy.slack.com/messages/C58HQRNF5/team/theokaleev/ <br>
+ <b> DIASPORA LINKS : </b> <br>
+ <i>theokaleev@pod.cudigital.media</i> <br>
+ <i>lucy@pod.cudigital.media</i> <br>
+ <i>mudhaij@pod.cudigital.media</i> <br>
  
  <h2>REFERENCES</h2>
  
@@ -35,3 +39,4 @@ http://pngimg.com/uploads/tree/tree_PNG3477.png <br>
 https://create.arduino.cc/projecthub/EvdS/led-dice-885cf1
 https://www.losant.com/blog/how-to-build-an-arduino-powered-led-dice
 http://www.instructables.com/id/Arduino-Led-Dice/
+
